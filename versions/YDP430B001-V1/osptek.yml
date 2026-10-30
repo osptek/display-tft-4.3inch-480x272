@@ -1,0 +1,10 @@
+id: YDP430B001-V1
+category: displays
+size: "4.3"
+panel: tft
+resolution: 480x272
+interface: [rgb]
+driver: NV3047
+touch: null
+outline: 67.20 x 105.5 x 2.97 mm
+active_area: 95.04 x 53.86 mm
